@@ -2,9 +2,9 @@
 // 48-57 0-9 -> 10 karakter
 // 65-90 A-Z -> 26 karakter
 // 97-122 a-z -> 26 karakter
-// 62*62*62*62*62*62
+// 62*62*62*62*62*62 kombinasyon
 
-int charChecker(ref int letter)
+void charChecker(ref int letter)
 {
     if (letter == 57)
     {
@@ -14,8 +14,6 @@ int charChecker(ref int letter)
     {
         letter = 96;
     }
-
-    return letter;
 }
 
 void reset (ref int x, int index)

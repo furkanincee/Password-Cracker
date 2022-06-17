@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\bin\Debug\net6.0\PassCracker.exe
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\bin\Debug\net6.0\PassCracker.deps.json
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\bin\Debug\net6.0\PassCracker.runtimeconfig.json
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\bin\Debug\net6.0\PassCracker.dll
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\bin\Debug\net6.0\PassCracker.pdb
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\PassCracker.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\PassCracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\PassCracker.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\PassCracker.AssemblyInfo.cs
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\PassCracker.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\PassCracker.dll
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\refint\PassCracker.dll
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\PassCracker.pdb
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\PassCracker.genruntimeconfig.cache
+C:\Users\furka\Desktop\Password-Cracker\ConsoleApp1\obj\Debug\net6.0\ref\PassCracker.dll
